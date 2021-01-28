@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wifi Webviewer</string>
+
+    <string name="wifi_connect">Connect to the Internet through Wifi</string>
+
+    <string name="password">Password</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="confirm">Confirm</string>
+    <string name="select_a_network">Select a Wifi network</string>
+
+    <string name="facebook_app_id">406647267448279</string>
+    <string name="fb_login_protocol_scheme">fb406647267448279</string>
+
+    <string name="explore">Explore</string>
+    <string name="share">Share</string>
+
+    <string name="profile_picture">Profile picture</string>
+    <string name="share_link">Share the link with Facebook</string>
+</resources>
